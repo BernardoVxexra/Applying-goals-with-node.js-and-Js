@@ -12,3 +12,7 @@
  Coletar os dados
  Processar os dados (manipular, alterar ...)
  Apresentar os dados
+
+ # Estrutura de repetição
+
+ - [x] while
