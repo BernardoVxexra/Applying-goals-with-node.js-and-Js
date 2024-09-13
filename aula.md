@@ -16,3 +16,7 @@
  # Estrutura de repetição
 
  - [x] while
+
+ # condicionais
+
+ - [x] Switch
