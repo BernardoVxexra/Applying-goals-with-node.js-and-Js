@@ -20,3 +20,12 @@
  # condicionais
 
  - [x] Switch
+
+ ## Módulos em Node.js
+
+ - [x] importação de módulos (require, CommonJS)
+ - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+ ## Programação assíncrona e Promises:
+
+ - [x] Uso de funções assíncronas (async/await)
